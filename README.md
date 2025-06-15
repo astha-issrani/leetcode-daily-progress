@@ -11,7 +11,8 @@ Welcome to my daily LeetCode coding journey!
 
 | Date       | Problems Solved              |
 |------------|------------------------------|
-| 2025-06-14 | two_sum.py |
+| 2025-06-14 | two_sum.cpp, two_sum_2.cpp |
+| 2025-06-15 | three_sum.cpp, trapping_rainwater.cpp |
 
 ## 🧠 Topics Covered
 - Arrays
