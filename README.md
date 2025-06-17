@@ -13,6 +13,8 @@ Welcome to my daily LeetCode coding journey!
 |------------|------------------------------|
 | 2025-06-14 | two_sum.cpp, two_sum_2.cpp |
 | 2025-06-15 | three_sum.cpp, trapping_rainwater.cpp |
+| 2025-06-17 | three_sum_closest.cpp |
+| 2025-06-18 | nextpermutation.cpp |
 
 ## 🧠 Topics Covered
 - Arrays
