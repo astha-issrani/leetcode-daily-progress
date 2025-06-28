@@ -16,7 +16,7 @@ Welcome to my daily LeetCode coding journey!
 | 2025-06-17 | three_sum_closest.cpp |
 | 2025-06-18 | nextpermutation.cpp |
 | 2025-06-19 | rotate image.cpp |
-| 2025-06-28 | container with most water.cpp |
+| 2025-06-28 | container with most water.cpp,contains duplicate.cpp |
 
 ## 🧠 Topics Covered
 - Arrays
