@@ -18,6 +18,7 @@ Welcome to my daily LeetCode coding journey!
 | 2025-06-19 | rotate image.cpp |
 | 2025-06-28 | container with most water.cpp,contains duplicate.cpp |
 | 2025-06-29 | valid_anagram.cpp |
+| 2025-07-01 | wordsearch.cpp |
 
 ## 🧠 Topics Covered
 - Arrays
