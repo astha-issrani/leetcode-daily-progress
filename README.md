@@ -19,6 +19,12 @@ Welcome to my daily LeetCode coding journey!
 | 2025-06-28 | container with most water.cpp,contains duplicate.cpp |
 | 2025-06-29 | valid_anagram.cpp |
 | 2025-07-01 | wordsearch.cpp |
+| 2025-07-10 | group_anagrams.cpp |
+
+Some things happen in life which are out of our control... Any way we're back on the challenge, bro!
+Restarting coding today after two weeks.
+
+| 2025-07-10 | reverseLinkedList.cpp (brute force), reverseLinkedList.cpp (optimal approach I), reverseLinkedList.cpp (optimal approach II) |
 
 ## 🧠 Topics Covered
 - Arrays
