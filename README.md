@@ -24,7 +24,8 @@ Welcome to my daily LeetCode coding journey!
 Some things happen in life which are out of our control... Any way we're back on the challenge, bro!
 Restarting coding today after two weeks.
 
-| 2025-07-10 | reverseLinkedList.cpp (brute force), reverseLinkedList.cpp (optimal approach I), reverseLinkedList.cpp (optimal approach II) |
+| 2025-07-24 | reverseLinkedList.cpp (brute force) |
+| 2025-07-25 |reverseLinkedList.cpp (optimal approach I), reverseLinkedList.cpp (optimal approach II)|
 
 ## 🧠 Topics Covered
 - Arrays
