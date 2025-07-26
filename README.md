@@ -26,6 +26,7 @@ Restarting coding today after two weeks.
 
 | 2025-07-24 | reverseLinkedList.cpp (brute force) |
 | 2025-07-25 |reverseLinkedList.cpp (optimal approach I), reverseLinkedList.cpp (optimal approach II)|
+| 2025-07-26 | middleOfALinkedList_bruteForce.cpp, middleOfALinkedList.cpp (optimal approach)|
 
 ## 🧠 Topics Covered
 - Arrays
