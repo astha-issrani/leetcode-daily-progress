@@ -30,7 +30,7 @@ Restarting coding today after two weeks.
 | 2025-07-28 | removenthnodefromend_bruteforce.cpp |
 | 2025-07-29 | removenthnodefromend_optimal.cpp |
 | 2025-07-30 | addtwonumber.cpp |
-| 2025-07-31 | deletegivennodeinalinkedlist.cpp, implementstackusingarray.cpp |
+| 2025-07-31 | deletegivennodeinalinkedlist.cpp, implementstackusingarray.cpp,implementqueueusingarray.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
