@@ -29,7 +29,7 @@ Restarting coding today after two weeks.
 | 2025-07-26 | middleOfALinkedList_bruteForce.cpp, middleOfALinkedList.cpp (optimal approach), mergeTwoSortedLists_bruteForce.cpp, mergeTwoSortedLists_optimal.cpp|
 | 2025-07-28 | removenthnodefromend_bruteforce.cpp |
 | 2025-07-29 | removenthnodefromend_optimal.cpp |
-
+| 2025-07-30 | addtwonumber.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
