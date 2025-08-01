@@ -31,7 +31,7 @@ Restarting coding today after two weeks.
 | 2025-07-29 | removenthnodefromend_optimal.cpp |
 | 2025-07-30 | addtwonumber.cpp |
 | 2025-07-31 | deletegivennodeinalinkedlist.cpp, implementstackusingarray.cpp,implementqueueusingarray.cpp |
-| 2025-08-01 | implementstackusingqueue.cpp |
+| 2025-08-01 | implementstackusingqueue.cpp, implementqueueusingstacks.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
