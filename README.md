@@ -33,6 +33,8 @@ Restarting coding today after two weeks.
 | 2025-07-31 | deletegivennodeinalinkedlist.cpp, implementstackusingarray.cpp,implementqueueusingarray.cpp |
 | 2025-08-01 | implementstackusingqueue.cpp, implementqueueusingstacks.cpp, implementqueueusingstacks_bruteforce.cpp |
 | 2025-08-06 | validparentheses.cpp |
+| 2025-08-07 | nextgreaterelementI.cpp |
+| 2025-08-10 | poweroftwo.cpp, reorderedpoweroftwo.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
