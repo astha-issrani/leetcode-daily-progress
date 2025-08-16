@@ -35,6 +35,8 @@ Restarting coding today after two weeks.
 | 2025-08-06 | validparentheses.cpp |
 | 2025-08-07 | nextgreaterelementI.cpp |
 | 2025-08-10 | poweroftwo.cpp, poweroftwousinglog.cpp, reorderedpoweroftwo.cpp |
+| 2025-08-13 | nextgreaterelement_optimal.cpp |
+| 2025-08-16 | maximum69number.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
