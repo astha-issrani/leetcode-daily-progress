@@ -37,7 +37,9 @@ Restarting coding today after two weeks.
 | 2025-08-10 | poweroftwo.cpp, poweroftwousinglog.cpp, reorderedpoweroftwo.cpp |
 | 2025-08-13 | nextgreaterelement_optimal.cpp |
 | 2025-08-16 | maximum69number.cpp |
+| 2025-08-23 | sortAStack.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
 - Hash Maps
+- String
