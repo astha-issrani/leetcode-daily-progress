@@ -39,6 +39,7 @@ Restarting coding today after two weeks.
 | 2025-08-16 | maximum69number.cpp |
 | 2025-08-23 | sortAStack.cpp |
 | 2025-08-25 | subset.cpp |
+| 2025-08-26 | subsetsumequalstotarget.cpp |
 ## 🧠 Topics Covered
 - Arrays
 - Strings
